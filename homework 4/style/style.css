@@ -1,0 +1,50 @@
+.head {
+  margin-top:23px;
+  margin-left:18px;
+}
+.head1 {
+  display:flex;
+}
+input {
+  border-radius:28px;
+  width:667px;
+  height:44px;
+  margin-left:70px;
+}
+.input {
+  display: flex;
+}
+
+
+.keyboard {
+  background: url(https://www.google.com/tia/tia.png) 0 0 no-repeat;
+  width:24px;
+  height:24px;
+  background-size:24px;
+  display:flex;
+}
+.voice {
+  background: url(http://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png) 0 0 no-repeat;
+  width:24px;
+  height:24px;
+  background-size:24px;
+  display:flex;
+}
+.loupe {
+  width:24px;
+  height:24px;
+  display:flex;
+}
+
+.bottom {
+  display:flex;
+  justify-content: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  margin-top: -5px;
+  align-items: stretch;
+}
+.apps {
+  width:24px;
+  height:24px;
+}
